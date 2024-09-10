@@ -2,7 +2,7 @@ React jobs project:
 This a jobs listing project.
 
 Usage
-This project uses JSON-Server for a mock backend.
+This project is a single-page application focused solely on visual presentation. It features a single page with no backend functionality or multi-page navigation.
 
 Install Dependencies
 - npm install
